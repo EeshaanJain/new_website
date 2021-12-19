@@ -2,23 +2,58 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+# description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: Third year undergraduate, Electrical Engineering, IIT Bombay
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Room Number 145</p>
+    <p>Hostel 2, IIT Bombay</p>
+    <p>Mumbai, MH 400076</p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+**Note:** I am in process of migrating my old website to this one, and it is incomplete as of now.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Whoever is viewing this, hello! Hope you are doing well!<br>
+I'm Eeshaan and have a keen interest in Machine Intelligence. I'll keep this page void of any academic topics though, and to know about my academics and interests go over to ![](https://img.shields.io/static/v1?label=&message=academics&color=blue) in the navbar (though I'll add quick links over here).
+- [Résumé/CV](resume)
+- [Projects](projects)
+- [General](general)
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+
+I currently study at IIT Bombay, though I hail from Pune, where I have attended my secondary and high school. I can speak English and Hindi fluently, while I am learning Japanese and Marathi now! 
+
+Oh by the way, I am also trying to maintain a blog [here](blog), in which I seldom post, but mostly its something related to machine learning or algorithms.
+
+Here are some things that I have pursued as a hobby more or less, and am fascinated by:
+- Origami
+- Rubik's Cube (Speedcubing)
+- Piano
+- 3D Animation (Blender)
+- Music Visualization
+
+In my free time, I:
+- Go for a random walk (pun intended)
+- Watch crime/thriller series
+- Read news, mainly in the technology domain
+- Scroll through Reddit/Twitter/Quora
+- Browse at projects/talks which I find cool
+- Watch tutorials on Youtube about any random topic
+
+I am inclined towards calm and meaningful music, along with some nightcore. I don't consider having a favorite artist/band but I usually listen to songs from Kina, Sleepy, AURORA and Plain White T's.
+
+
+
+
+
+
+
+
+

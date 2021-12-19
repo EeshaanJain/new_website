@@ -1,11 +1,14 @@
 ---
 layout: page
-title: submenus
+title: academics
 nav: true
 dropdown: true
-children: 
-    - title: publications
-      permalink: /publications/
+children:
+    - title: general
+      permalink: /general/
+    - title: divider
+    - title: resume
+      permalink: /resume/
     - title: divider
     - title: projects
       permalink: /projects/
