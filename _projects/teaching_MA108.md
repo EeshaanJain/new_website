@@ -2,7 +2,7 @@
 layout: page
 title: MA 108 - Differential Equations
 description: Teaching assistant for the course.
-importance: 1
+importance: 2
 category: 2021
 ---
 

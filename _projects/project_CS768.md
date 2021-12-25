@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Estimation of Epidemic State using GNNs
-description: Utilization of GCNs to predict the state (S/I/R) of a person in a small-world network during an epidemic.
+description: Utilization of GCNs to predict the state (S/I/R) of a person in a small-world network during an epidemic
 img: assets/img/proj/gnn.png
 importance: 1
 category: key
