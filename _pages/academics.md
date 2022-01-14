@@ -1,7 +1,7 @@
 ---
 layout: page
-title: general
-permalink: /general/
+title: academics
+permalink: /academics/
 description: All about academics
 social: true
 ---

@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: academics
 nav: true
@@ -12,4 +12,4 @@ children:
     - title: divider
     - title: projects
       permalink: /projects/
----
+--- -->

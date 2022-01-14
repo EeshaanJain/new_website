@@ -24,7 +24,7 @@ Whoever is viewing this, hello! Hope you are doing well!<br>
 I'm Eeshaan and have a keen interest in Machine Intelligence. I'll keep this page void of any academic topics though, and to know about my academics and interests go over to ![](https://img.shields.io/static/v1?label=&message=academics&color=blue) in the navbar (though I'll add quick links over here).
 - [Résumé/CV](resume)
 - [Projects](projects)
-- [General](general)
+- [Academics](academics)
 
 
 

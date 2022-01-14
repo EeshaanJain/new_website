@@ -3,6 +3,7 @@ layout: page
 title: resume
 permalink: /resume/
 description: My Résumé/CV
+nav: true
 ---
 ---
 <p align="center">
