@@ -12,5 +12,5 @@ I'm currently in my third year with my major in Electrical Engineering at IIT Bo
 - Computer Vision
 - Learning with Graphs
 
-Currently I am working under Prof. Abir De on differential-privacy based machine learning and on subset selection.<br>
+Currently I am working under [https://abir-de.github.io/](Prof. Abir De) on privacy-preserving based machine learning and on subset selection.<br>
 Apart from AI/ML, I am also interested in Quantum Computing, and Quantum Machine Learning, though I haven't explored QML a lot.<br>
