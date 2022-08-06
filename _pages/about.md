@@ -3,11 +3,12 @@ layout: about
 title: about
 permalink: /
 # description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
-description: Third year undergraduate, Electrical Engineering, IIT Bombay
+description: Fourth year undergraduate in Electrical Engineering, IIT Bombay
+             Exchange student at EPFL, Switzerland in Computer Science
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Img_full.jpg
   address: >
     <p>Room Number 145</p>
     <p>Hostel 2, IIT Bombay</p>
