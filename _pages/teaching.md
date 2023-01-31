@@ -4,7 +4,7 @@ title: teaching
 permalink: /teaching/
 description: A collection of courses in which I have assisted
 nav: true
-display_categories: [2021, 2020]
+display_categories: [2023,2021, 2020]
 horizontal: false
 ---
 <div class="projects">
