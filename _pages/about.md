@@ -8,9 +8,8 @@ description: Fourth year undergraduate in Electrical Engineering, IIT Bombay<br>
 
 profile:
   align: right
-  image: Wien.jpg
-  address: >
-    A snap from Vienna!
+  image: EPFL.jpeg
+  address: 
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
