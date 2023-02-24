@@ -17,12 +17,20 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-**Note:** I am in process of migrating my old website to this one, and it is incomplete as of now.
-
 Whoever is viewing this, hello! Hope you are doing well!<br>
-I have a keen interest in Machine Learning - related to optimization, graph neural networks and impactful data science.
+I have a keen interest in Machine Learning - related to optimization, graph neural networks and impactful and fair learning. I am currently working under Prof. [Abir De](https://abir-de.github.io/) at IIT Bombay.
 
 Here is a link to my [Résumé/CV](resume) (Last updated: Jan 2023)
+
+Here is a link to the list of projects I have done: [Projects](projects)
+
+Here is a link to the notes I have made for courses or interesting topics: [Notes](notes)
+
+I have acted as a Teaching Assistant in the following courses at IIT Bombay:
+1. CS 769 (Optimization for Machine Learning) 
+2. MA 207 (Partial Differential Equations)
+3. MA 108 (Ordinary Differential Equations)
+4. CH 107 (Quantum Chemistry)
 
 
 
