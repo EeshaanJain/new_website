@@ -8,3 +8,4 @@ _site
 .tweet-cache
 vendor
 temp/
+Gemfile.lock
