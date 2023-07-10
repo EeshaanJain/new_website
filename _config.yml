@@ -78,7 +78,7 @@ google_analytics: UA-176434187-1 # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: learning foundry # your blog must have a name for it to show up in the nav bar
+blog_name: #learning foundry # your blog must have a name for it to show up in the nav bar
 blog_description: A blog filled with stuff related to Machine Learning and random notes.
 permalink: /blog/:year/:title/
 
