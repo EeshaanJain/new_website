@@ -21,7 +21,7 @@ I have a keen interest in Machine Learning - related to optimization, graph neur
 
 
 > **CV** <br>
-  Here is a link to my [Résumé/CV](resume) (Last updated: Jan 2023)
+  Here is a link to my [Résumé/CV](CV.pdf) (Last updated: Jan 2023)
 
   ---
 
@@ -40,14 +40,13 @@ I have acted as a Teaching Assistant in the following courses at IIT Bombay:
 
 I currently study at IIT Bombay, though I hail from Pune, where I have attended my secondary and high school. I can speak English and Hindi fluently, while I am learning Japanese now!
 
-Oh by the way, I am also trying to maintain a blog [here](blog), in which I seldom post, but mostly its something related to machine learning or algorithms.
-
+<!-- Oh by the way, I am also trying to maintain a blog [here](blog), in which I seldom post, but mostly its something related to machine learning or algorithms.
+ -->
 
 In my free time, I:
 - Go for hikes
-- Go for a random walk (pun intended)
-- Play chess
-
+- Play GeoGuessr/chess
+- Read about cultures around the world
 
 
 
