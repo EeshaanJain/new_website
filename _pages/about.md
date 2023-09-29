@@ -19,6 +19,9 @@ social: true  # includes social icons at the bottom of the page
 Whoever is viewing this, hello! Hope you are doing well!<br>
 I have a keen interest in Machine Learning - related to optimization, graph neural networks and impactful and fair learning. I am currently working under Prof. [Abir De](https://abir-de.github.io/) at IIT Bombay.
 
+> **Publications** <br>
+  Here is a link to my [Publications](publications) (Last updated: Sep 2023)
+
 
 > **CV** <br>
   Here is a link to my [Résumé/CV](CV.pdf) (Last updated: Jan 2023)
