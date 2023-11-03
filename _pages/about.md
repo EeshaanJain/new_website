@@ -31,7 +31,7 @@ I have a keen interest in Machine Learning - related to optimization, graph neur
 
 > Here is a link to the list of projects I have done: [Projects](projects)
 
-Here is a link to the notes I have made for courses or interesting topics: [Notes](notes)
+> Here is a link to the notes I have made for courses or interesting topics: [Notes](notes)
 
 I have acted as a Teaching Assistant in the following courses at IIT Bombay:
 1. CS 768 (Learning with Graphs)
