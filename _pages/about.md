@@ -24,8 +24,9 @@ I have a keen interest in Machine Learning - related to optimization, graph neur
 
 
 > **CV** <br>
-  Here is a link to my 1 Page [Résumé/CV](1_Page_CV.pdf) (Last updated: Sep 2023)<br>
-  Here is a link to my Long [Résumé/CV](CV.pdf) (Last updated: Jan 2023)
+  Here is a link to my Long [Résumé/CV](CV.pdf) (Last updated: Nov 2023)<br>
+  Here is a link to my 1 Page [Résumé/CV](1_Page_CV.pdf) (Last updated: Sep 2023)
+  
 
   ---
 
