@@ -19,7 +19,7 @@ nav: true
 ---
 
 ### <ins>Post-hoc Out of Distribution Detection</ins><a name="post-hoc-ood"></a>
-<i class="fas fa-book"></i> *Report:* [[Click here]](Post_Hoc_OOD.pdf)<br>
+<i class="fas fa-book"></i> *Report:* [[Click here]](Post_Hoc_OOD_Paper.pdf)<br>
 <i class="fab fa-slideshare"></i> *Slides:* [[Click here]](Post_Hoc_OOD_Slides.pdf)<br>
 <i class="fas fa-code-branch"></i> *Code:* [[Click here]](https://github.com/ph-ood/post-hoc-ood)<br>
 **Summary:** We focus on OOD detection, in a classification setting, after a classifier has already been trained (i.e., a post-hoc/post-training setting). Many popular baselines propose score functions to detect OOD
