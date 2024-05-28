@@ -3,12 +3,13 @@ layout: about
 title: about
 permalink: /
 # description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
-description: Fifth year undergaduate student studying Artificial Intelligence @ IIT Bombay<br>
+description: Incoming PhD student @ EPFL<br>
+             Fifth year undergaduate student studying Artificial Intelligence @ IIT Bombay<br>
              Exchange student @ EPFL, Switzerland in Computer Science for Autumn 2022-23
 
 profile:
   align: right
-  image: stockholm.jpg
+  image: NYC.png
   address: 
 
 news: true  # includes a list of news items
@@ -17,27 +18,26 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Whoever is viewing this, hello! Hope you are doing well!<br>
-I have a keen interest in Machine Learning surrounding applications of geometric learning to life sciences. Previously, I have worked on optimization, graph neural networks and impactful and fair learning. I am currently working under Prof. [Abir De](https://abir-de.github.io/) and Prof. [Soumen Charkabarti](https://www.cse.iitb.ac.in/~soumen/) on notions of graph similarity, and combinatorial optimization at IIT Bombay, and interning with Prof. [Vikas Garg](https://research.aalto.fi/en/persons/vikas-garg) at Aalto University.
+I have a keen interest in Machine Learning surrounding applications of geometric learning to life sciences. Previously, I have worked on optimization, graph neural networks and impactful and fair learning. I am currently working under Prof. [Abir De](https://abir-de.github.io/) and Prof. [Soumen Charkabarti](https://www.cse.iitb.ac.in/~soumen/) on notions of graph similarity, and combinatorial optimization at IIT Bombay.
 
 
-> **Publications** <br>
-  Here is a link to my [Publications](publications) (Last updated: Sep 2023)
 
-> **CV** <br>
-  Here is a link to my [Long Résumé/CV](CV.pdf) (Last updated: Nov 2023)<br>
-  Here is a link to my [1 Page Résumé/CV](1_Page_CV.pdf) (Last updated: Sep 2023)
-  
+  - Here is a link to my [Publications](publications) (Last updated: Sep 2023)
 
-  ---
+  - CVs:
+    - Here is a link to my [Long Résumé/CV](CV.pdf) (Last updated: Nov 2023)<br>
+    - Here is a link to my [1 Page Résumé/CV](1_Page_CV.pdf) (Last updated: Sep 2023)
 
-> Here is a link to the list of projects I have done: [Projects](projects)
+  - Here is a link to the list of projects I have done: [Projects](projects)
 
-Each semester I make $$\LaTeX$$ notes of a course. This time it will be for EE761: Advanced Concentration Inequalities.
-> Here is a link to the notes I have made for courses or interesting topics: [Notes](notes)
+  - Here is a link to the notes I have made for courses or interesting topics: [Notes](notes)
+
+
+
 
 I have acted as a Teaching Assistant in the following courses at IIT Bombay:
-1. CS 419M (Introduction to Machine Learning) (_Ongoing_)
-2. CS 768 (Learning with Graphs)
+1. CS 419M (Introduction to Machine Learning) (100+ students)
+2. CS 768 (Learning with Graphs) (50+ students)
 3. CS 769 (Optimization for Machine Learning: 100+ students) 
 4. MA 207 (Partial Differential Equations: 200+ students)
 5. MA 108 (Ordinary Differential Equations: 400+ students)
