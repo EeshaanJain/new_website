@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 # description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
-description: Incoming PhD student @ EPFL under Prof. <a href="https://www.bunnelab.com/"> Charlotte Bunne </a> <br>
+description: PhD student @ AIMM, EPFL under Prof. <a href="https://www.bunnelab.com/"> Charlotte Bunne </a> <br>
              Fifth year undergaduate student studying Artificial Intelligence @ IIT Bombay<br>
              Exchange student @ EPFL, Switzerland in Computer Science for Autumn 2022-23
 
