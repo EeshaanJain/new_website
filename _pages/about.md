@@ -4,7 +4,7 @@ title: about
 permalink: /
 # description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 description: PhD student @ AIMM, EPFL under Prof. <a href="https://www.bunnelab.com/"> Charlotte Bunne </a> <br>
-             Fifth year undergaduate student studying Artificial Intelligence @ IIT Bombay<br>
+             Bachelor's + Master's at IIT Bombay<br>
              Exchange student @ EPFL, Switzerland in Computer Science for Autumn 2022-23
 
 profile:
@@ -18,7 +18,9 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Whoever is viewing this, hello! Hope you are doing well!<br>
-I have a keen interest in Machine Learning surrounding applications of geometric learning to life sciences. Previously, I have worked on optimization, graph neural networks and impactful and fair learning. I am currently working under Prof. [Abir De](https://abir-de.github.io/) and Prof. [Soumen Charkabarti](https://www.cse.iitb.ac.in/~soumen/) on notions of graph similarity, and combinatorial optimization at IIT Bombay.
+I have a keen interest in Machine Learning surrounding applications of geometric learning to life sciences. Previously, I have worked on optimization, graph neural networks and impactful and fair learning under Prof. [Abir De](https://abir-de.github.io/) and Prof. [Soumen Charkabarti](https://www.cse.iitb.ac.in/~soumen/) IIT Bombay. I have also worked with AWL, Inc. and Sony, Japan, and Google Research for over a year.
+
+
 
 
 
