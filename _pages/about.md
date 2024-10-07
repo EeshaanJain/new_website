@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Whoever is viewing this, hello! Hope you are doing well!<br>
-I have a keen interest in Machine Learning surrounding applications of geometric learning to life sciences. Previously, I have worked on optimization, graph neural networks and impactful and fair learning under Prof. [Abir De](https://abir-de.github.io/) and Prof. [Soumen Charkabarti](https://www.cse.iitb.ac.in/~soumen/) IIT Bombay. I have also worked with AWL, Inc. and Sony, Japan, and Google Research for over a year.
+I have a keen interest in Machine Learning surrounding applications of geometric learning to life sciences. Previously, I have worked on optimization, graph neural networks and impactful and fair learning under Prof. [Abir De](https://abir-de.github.io/) and Prof. [Soumen Charkabarti](https://www.cse.iitb.ac.in/~soumen/) IIT Bombay. I have also worked with Google Research for a year, and with AWL, Inc. and Sony, Japan. 
 
 
 
@@ -27,8 +27,8 @@ I have a keen interest in Machine Learning surrounding applications of geometric
   - Here is a link to my [Publications](publications) (Last updated: Sep 2023)
 
   - CVs:
-    - Here is a link to my [Long Résumé/CV](CV.pdf) (Last updated: Nov 2023)<br>
-    - Here is a link to my [1 Page Résumé/CV](1_Page_CV.pdf) (Last updated: Sep 2023)
+    <!-- - Here is a link to my [Long Résumé/CV](CV.pdf) (Last updated: Nov 2023)<br> -->
+    - Here is a link to my [2 Page Résumé/CV](Sep_CV.pdf) (Last updated: Sep 2023)
 
   - Here is a link to the list of projects I have done: [Projects](projects)
 
