@@ -24,11 +24,11 @@ I have a keen interest in Machine Learning surrounding applications of geometric
 
 
 
-  - Here is a link to my [Publications](publications) (Last updated: Sep 2023)
+  - Here is a link to my [Publications](publications) (Last updated: Sep 2024)
 
   - CVs:
     <!-- - Here is a link to my [Long Résumé/CV](CV.pdf) (Last updated: Nov 2023)<br> -->
-    - Here is a link to my [2 Page Résumé/CV](Sep_CV.pdf) (Last updated: Sep 2023)
+    - Here is a link to my [2 Page Résumé/CV](Sep_CV.pdf) (Last updated: Sep 2024)
 
   - Here is a link to the list of projects I have done: [Projects](projects)
 
@@ -54,7 +54,7 @@ I currently study at IIT Bombay, though I hail from Pune, where I have attended 
 
 In my free time, I:
 - Go for hikes
-- Play GeoGuessr/chess
+- Play GeoGuessr/Chess
 - Read about cultures around the world
 
 
